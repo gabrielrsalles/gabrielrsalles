@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Gabriel Salles 👋</h1>
+<h1 align="center">Hi there! I'm Gabriel Salles 👋🏽</h1>
 
 <div align="center">
   <a href="https://github.com/gabrielrsalles">
@@ -8,7 +8,7 @@
 
 ---
 
-### 🙋 About Me
+### 🙋‍♂️ About Me
 
 🎓 Software Engineering student at **FIAP**  
 💻 Focused on **Web Development**, studying **Java**, **JavaScript**, and **Python**  
