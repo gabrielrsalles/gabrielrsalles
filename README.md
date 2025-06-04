@@ -13,7 +13,7 @@
 
 Atualmente estudo Engenharia de Software na FIAP e estou focado em me aprofundar em desenvolvimento web e linguagens como Java, JavaScript e Python.
 
-Tenho como objetivo crescer profissionalmente na área de tecnologia, me especializar em back-end e data science, além de construir projetos que façam a diferença.
+Tenho como objetivo crescer profissionalmente na área de tecnologia, me especializar em back-end e ciber segurança, além de construir projetos que façam a diferença.
 
 Sou apaixonado por aprendizado contínuo, desafios que me façam evoluir e acredito que a disciplina e a prática são essenciais para o sucesso.
 
