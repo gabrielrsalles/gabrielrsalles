@@ -42,5 +42,5 @@
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/gabrielrsalles)  
+- [LinkedIn](www.linkedin.com/in/gabriel-ribeiro-5bb567161)  
 - [GitHub](https://github.com/gabrielrsalles)
