@@ -10,6 +10,8 @@
 
 ### 🙋‍♂️ About Me
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwbG00NWlpZHE2cXBnZTJhY2tvbW9nOG52MmxxMmpkOHl5bWNicyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif" width="125" align="right">
+
 🎓 Software Engineering student at **FIAP**  
 💻 Focused on **Web Development**, studying **Java**, **JavaScript**, and **Python**  
 🔐 Interests in **Back-end** and **Cybersecurity**  
